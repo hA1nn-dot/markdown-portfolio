@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### My favorite things ✨
+* Listen to music 🎵
+* Play videgames 🎮
+* Drawing 🖌️
